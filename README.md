@@ -9,7 +9,7 @@
   </head>
   <body>
     <video width="320" height="640" controls>
-      <source src="./docs/feishu-card-msg-op.mp4" type="mp4">
+      <source src="./docs/feishu-card-msg-op.mp4" type="video/mp4">
     </video>
   </body>
 </html>
